@@ -27,4 +27,4 @@ function vitoriasEderrotas(numeroVitorias, numeroDerrotas) {
 let saldoVitorias = vitoriasEderrotas(100, 8);
 
 // usando interpolação 
-console.log(`O Herói tem de saldo de ${saldoVitorias[0]} e está no nível de ${saldoVitorias[1]}`);
+console.log(`O Herói tem saldo de ${saldoVitorias[0]} e está no nível de ${saldoVitorias[1]}`);
